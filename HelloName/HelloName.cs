@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace HelloName
 {
-    class Program
+    class HelloName
     {
         static void Main(string[] args)
         {
